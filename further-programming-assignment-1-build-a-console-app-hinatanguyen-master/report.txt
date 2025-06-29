@@ -1,0 +1,8 @@
+--- Available Equipments ---
+EquipmentID: 1, Name: Arduino Board, Status: Available, PurchaseDate: 01-01-2023, Condition: Brand New
+EquipmentID: 2, Name: Phone, Status: Available, PurchaseDate: 01-01-2023, Condition: Good
+EquipmentID: 4, Name: 3D Printer, Status: Available, PurchaseDate: 01-01-2023, Condition: Good
+EquipmentID: 6, Name: Oscilloscope, Status: Available, PurchaseDate: 01-01-2023, Condition: Brand New
+EquipmentID: 7, Name: Laser Cutter, Status: Available, PurchaseDate: 01-01-2023, Condition: Good
+EquipmentID: 8, Name: Projector, Status: Available, PurchaseDate: 01-01-2023, Condition: Needs Maintenance
+EquipmentID: 10, Name: Tablet, Status: Available, PurchaseDate: 01-01-2023, Condition: Out of Service

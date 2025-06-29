@@ -1,0 +1,10 @@
+1,Arduino Board,Available,2023-01-01,Brand New
+2,Phone,Available,2023-01-01,Good
+3,Robot,Available,2023-01-01,Needs Maintenance
+4,3D Printer,Available,2023-01-01,Good
+5,VR Headset,Available,2023-01-01,Damaged
+6,Oscilloscope,Available,2023-01-01,Brand New
+7,Laser Cutter,Available,2023-01-01,Good
+8,Projector,Available,2023-01-01,Needs Maintenance
+9,Microscope,Available,2023-01-01,Good
+10,Tablet,Available,2023-01-01,Out of Service
